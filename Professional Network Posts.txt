@@ -1,77 +1,10 @@
-20
-Post ID: post1
-Shared by: u3
-Date: 14/11/2017
-Post text: CP Project Started Yayy....
-Activity: Feeling Excited
-Liked by: u1, -1
-
-Post ID: post2
-Shared by: u3
-Date: 13/11/2017
-Post text: Life will be beautiful after exams
-Activity: Thinking about Mids
-Liked by: u7, -1
-
-Post ID: post3
-Shared by: u11
-Date: 14/11/2017
-Post text: Waiting for Weekend
-Activity: None
-Liked by: u6, u7, -1
-
-Post ID: post4
-Shared by: u12
-Date: 14/11/2017
-Post text: Waiting for Result
-Activity: None
-Liked by: -1
-
-Post ID: post5
-Shared by: p1
-Date: 14/11/2017
-Post text: Try this at home...
-Activity: Making Kashmiri Chai (Pink Tea)
-Liked by: u2, p1, u3, u4, -1
-
-Post ID: post6
-Shared by: p2
-Date: 14/11/2017
-Post text: Oil drilling in Alaska's indigenous communities is on the table again.
-Activity: None
-Liked by: -1
-
-Post ID: post7
-Shared by: p5
-Date: 15/11/2017
-Post text: Be free of possessing things - Rumi
-Activity: None
-Liked by: u7, p5, -1
-
-Post ID: post8
-Shared by: u7
-Date: 14/11/2017
-Post text: Happy Birthday to my dear Mom
-Activity: Celebrating a birthday
-Liked by: u2, u3, u4, -1
-
-Post ID: post9
-Shared by: u7
-Date: 14/10/2017
-Post text: Happy Birthday to my dear Father
-Activity: Celebrating a birthday
-Liked by: u2, u4, -1
-
-Post ID: post10
-Shared by: p1
-Date: 10/11/2017
-Post text: Sunday Special Breafast for our followers...
-Activity: Making Halwa Puri
-Liked by: -1
-
-Post ID: post11
-Shared by: u20
-Date: 10/10/2017
-Post text: Happy Birthday Ali Bhai
-Activity: Celebrating a birthday
-Liked by: -1
+9
+post1 u3 14 11 2017 CP Project Started Yayy....- Sharing an article, blog, or news related to the industry.- u1-
+post3 c3 14 11 2017 Looking for internees- Offering job opportunities - u1 , c2-
+post2 u3 13 11 2017 Life will be beautiful after exams- Asking for advice or feedback related to work or career- u7 -
+post4 c5 14 11 2017 Presenting our new application on MERN Stack- Promoting a product or service related to the industry- -
+post5 u1 14 11 2017 Try this at home...- Sharing an article, blog, or news related to the industry.-  u2 , p1 , u3 -
+post6 p2 14 11 2017 Oil drilling in Alaska's indigenous communities is on the table again.- None- -
+post7 p5 15 11 2017 Be free of possessing things; Rumi- Asking for advice or feedback related to work or career - u7 , p5 -
+post9 c2 14 10 2017 Front end developers reach us hr@empglabs.com- Offering or seeking job opportunities-  u2 , u4  -
+post10 c3 10 11 2017 Front end developers reach us hr@laam.com - Offering or seeking job opportunities - -
