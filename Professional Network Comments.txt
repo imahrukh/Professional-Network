@@ -1,13 +1,13 @@
 12
-c1 post1 u1 Good luck with your new job!
-c2 post1 u7 Interesting post. Have you considered using LinkedIn to expand your professional network?
-c3 post3 u6 Are you interested in organizing a professional networking event in the near future?
-c4 post3 u7 Sounds like a great idea. Let's discuss further.
-c5 post3 u8 I'd be interested in attending. How about a lunch buffet to start?
-c6 post5 p1 Followers, please try this recipe and let me know your thoughts.
-c7 post5 u1 Looks delicious! Can you share any tips on presentation?
-c8 post5 u11 Sure thing. I recommend garnishing with fresh herbs and a sprinkle of sea salt.
-c9 post7 u12 Rumi's insights are always inspiring. Thank you for sharing.
-c10 post8 u3 Wishing you a happy and successful year ahead, [Name]. Keep up the great work!
-c11 post9 u11 Many happy returns, [Name]! Let's grab coffee soon to catch up.
-c12 post4 u7 Thank you for your kind words. Looking forward to sharing my results with you all soon.
+c1 post1 u1 Good luck with your new job!-
+c2 post1 u7 Interesting post. Have you considered using LinkedIn to expand your professional network?-
+c3 post3 u6 Are you interested in organizing a professional networking event in the near future?-
+c4 post3 u7 Sounds like a great idea. Let's discuss further.-
+c5 post3 u8 I'd be interested in attending. How about a lunch buffet to start?-
+c6 post5 p1 Followers, please try this recipe and let me know your thoughts.-
+c7 post5 u1 Looks delicious! Can you share any tips on presentation?-
+c8 post5 u11 Sure thing. I recommend garnishing with fresh herbs and a sprinkle of sea salt.-
+c9 post7 u12 Rumi's insights are always inspiring. Thank you for sharing.-
+c10 post8 u3 Wishing you a happy and successful year ahead. Keep up the great work!-
+c11 post9 u11 Many happy returns, Let's grab coffee soon to catch up.-
+c12 post4 u7 Thank you for your kind words. Looking forward to sharing my results with you all soon.-
